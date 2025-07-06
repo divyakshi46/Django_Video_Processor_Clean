@@ -23,7 +23,7 @@ The Django Video Processor App is a web application that allows users to upload 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/devmishra1708/Django_video_processor_app.git
+   git clone https://github.com/divyakshi46/Django_video_processor_app.git
 2. Install the required Python packages:
 
    ```bash
